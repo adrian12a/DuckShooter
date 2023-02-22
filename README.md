@@ -18,8 +18,8 @@ Allegro 5 library needs to be installed before starting the application. It can 
 
 ## Contribution
 ### Assets
-- Bird - bevouliin [source](bevouliin.com)
-- Backgrounds - [freepik.com](freepik.com)
+- Bird - bevouliin [source](https://bevouliin.com)
+- Backgrounds - [freepik.com](https://www.freepik.com)
 - Others
 ### Inspiration
 - Duck Hunt
